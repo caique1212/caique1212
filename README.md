@@ -1,63 +1,50 @@
-# caique-marques
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+%7C+Web;Estudante+de+Sistemas+de+Informação;Construindo+Soluções+Inovadoras" />
+</p>
+## 👨‍💻 Sobre Mim
 
-🌟 Sobre Mim 🌟
+Sou estudante de **Desenvolvimento de Sistemas (SENAI/SC)** e **Sistemas de Informação (UNESC)**.
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI e também cursando Sistemas de Informação na UNESC. Estou em busca de oportunidades na área de tecnologia, com preferência por vagas home office.
+Tenho foco em desenvolvimento **Java + Web**, APIs REST e banco de dados MySQL.
 
-Sou uma pessoa proativa, comprometida e honesta, sempre buscando aprender e crescer profissionalmente. Acredito que a comunicação eficaz e o trabalho em equipe são fundamentais para o sucesso de qualquer projeto. Estou animado para aplicar meus conhecimentos e contribuir para o desenvolvimento de soluções inovadoras.
+🎯 Busco oportunidades como Desenvolvedor Júnior ou Estágio (Home Office ou Presencial).
 
-Se você está em busca de um profissional dedicado e disposto a enfrentar novos desafios, estou aqui! Vamos conectar!
+Sou proativo, comunicativo e apaixonado por tecnologia. 
+Gosto de transformar ideias em soluções funcionais.
+## 🚀 Projetos em Destaque
 
+### 🎟️ Events Manager (Spring Boot + MySQL)
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {sistema da informação} no {unsec} e {desenvolvimento de sistema} no {senai/sc}    .
-- 💼 Trabalhando como {estudando} .
-- 🌱 Aprendendo mais sobre {arduino, java, c++ , designe de interação, logica de programação, web designe}.
+Sistema completo de gerenciamento de eventos com autenticação, cadastro e inscrição.
 
-## Minhas Skills
+<p align="center">
+  <img src="LINK-DA-SUA-IMAGEM-AQUI" width="700">
+</p>
 
-**Aplicações e dados**
+🔗 [Ver Repositório](LINK-DO-SEU-PROJETO)
 
+---
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+### 🍕 Sistema de Pizzaria (HTML, CSS, JS)
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+Sistema com carrinho persistente usando localStorage.
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<p align="center">
+  <img src="LINK-DA-SUA-IMAGEM-AQUI" width="700">
+</p>
 
-**Utilidades**
+🔗 [Ver Repositório](LINK-DO-SEU-PROJETO)
+<img src="assets/nome-da-imagem.png" width="700">
+## 🛠️ Tecnologias
 
+<div align="center">
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,mysql,docker,git,github,vscode" />
 
-**DevOps**
+</div>
+## 📊 Estatísticas
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-
-  
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/caique-marques-304bb7333/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:caiquemarques.estudos@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/caique1212/caique-marques)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caique1212&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique1212&layout=compact&theme=tokyonight"/>
+</p>
