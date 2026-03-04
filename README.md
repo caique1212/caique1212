@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+%7C+Web;Estudante+de+Engenharia+de+Software;Construindo+Soluções+Inovadoras" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+%7C+Python+%7C+Web;Estudante+de+Engenharia+de+Software;Construindo+Soluções+Inovadoras" />
 </p>
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Desenvolvimento de Sistemas (SENAI/SC)** e **Engenharia de Software (SATC)**.
+Sou estudante de **Engenharia de Software (SATC)**.
 
-Tenho foco em desenvolvimento **Java + Web**, APIs REST e banco de dados MySQL.
+Atualmente estou aprendendo **Python** e tenho foco em desenvolvimento **Java + Web**, APIs REST e banco de dados MySQL.
 
 🎯 Busco oportunidades como Desenvolvedor Júnior ou Estágio (Home Office ou Presencial).
 
@@ -19,10 +19,6 @@ Gosto de transformar ideias em soluções funcionais.
 
 Sistema completo de gerenciamento de eventos com autenticação, cadastro e inscrição.
 
-<p align="center">
-  <img src="LINK-DA-SUA-IMAGEM-AQUI" width="700">
-</p>
-
 🔗 [Ver Repositório](LINK-DO-SEU-PROJETO)
 
 ---
@@ -30,10 +26,6 @@ Sistema completo de gerenciamento de eventos com autenticação, cadastro e insc
 ### 🍕 Sistema de Pizzaria (HTML, CSS, JS)
 
 Sistema com carrinho persistente usando localStorage.
-
-<p align="center">
-  <img src="LINK-DA-SUA-IMAGEM-AQUI" width="700">
-</p>
 
 🔗 [Ver Repositório](LINK-DO-SEU-PROJETO)
 
@@ -49,15 +41,26 @@ Projeto acadêmico para gestão de pequenos negócios.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,mysql,docker,git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 </div>
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caique1212&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique1212&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caique1212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique1212&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📫 Contato
