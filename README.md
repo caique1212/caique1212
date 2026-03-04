@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+%7C+Python+%7C+Web;Estudante+de+Engenharia+de+Software;Construindo+Soluções+Inovadoras" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+%7C+Python+%7C+Web;Técnico+em+Desenvolvimento+de+Sistemas;Estudante+de+Engenharia+de+Software" />
 </p>
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software (SATC)**.
+Sou **Técnico em Desenvolvimento de Sistemas (SENAI/SC)** e atualmente curso **Engenharia de Software (SATC)**.
 
-Atualmente estou aprendendo **Python** e tenho foco em desenvolvimento **Java + Web**, APIs REST e banco de dados MySQL.
+Tenho experiência em desenvolvimento **Java + Web**, APIs REST e banco de dados MySQL, e estou expandindo meus conhecimentos em **Python**.
 
 🎯 Busco oportunidades como Desenvolvedor Júnior ou Estágio (Home Office ou Presencial).
 
